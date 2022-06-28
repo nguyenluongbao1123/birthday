@@ -120,8 +120,8 @@ body {
 
 .img__mylove {
   margin: 2rem;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   cursor: pointer;
   -webkit-animation: myImage 10s linear infinite;
@@ -129,7 +129,8 @@ body {
 }
 
 .img__mylove img {
-  width: 100%;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 50%;
 }
